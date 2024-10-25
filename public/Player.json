@@ -1,0 +1,64 @@
+
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://i.ibb.co.com/C0jV8Z7/Virat-Kohli-jpj.webp",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": "12000000"
+  },
+  {
+    "playerId": 2,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co.com/hFxnCYr/Pat-Cummins.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": "15000000"
+  },
+  {
+    "playerId": 3,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/G9NqddP/Ben-Stokes.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm orthodox",
+    "biddingPrice": "13000000"
+  },
+  {
+    "playerId": 4,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/KhWNJ16/Kane-Williamson.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": "11000000"
+  },
+  {
+    "playerId": 5,
+    "name": "David Warner",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/MscY0sH/Jasprit-Bumrah.jpg",
+    "role": "Batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm legbreak",
+    "biddingPrice": "12500000"
+  },
+  {
+    "playerId": 6,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/L8LyKjF/Quinton-de-Kock.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": "14000000"
+  }
+
+]
